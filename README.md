@@ -1,4 +1,4 @@
 Small utility for creating equalization table (you should not use it in actual work).
-Usage go build -> ./coord "file_name".
+Usage go build -> ./coord "file_name.csv".
 
 Example of csv file is 1.csv
